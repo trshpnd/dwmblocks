@@ -25,4 +25,4 @@ else
 	bat_icon=
 fi
 
-printf "%s  %s%%" "$bat_icon" "$bat_level"
+printf "%s %s%%" "$bat_icon" "$bat_level"
